@@ -7,7 +7,7 @@ _(phone/telegram)_ +375-(44)-721-11-26
 
 _(email)_ m9t3zhn1k@mail.ru
 
-_(Social networks)_ Instagram
+_(Social networks)_ [Instagram](https://www.instagram.com/m9t3zhn1kk/)
 
 **About me**: The Rolling Scopes JavaSctipt course is the first experience in programming for me. I think programming is a very interesting activity. I hope I can become a professional in it.
 
