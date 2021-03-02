@@ -34,7 +34,7 @@ _(Social networks)_ [Instagram](https://www.instagram.com/m9t3zhn1kk/)
 
 * BSUIR - Faculty of Telecommunications - 2011-2016
 
-* Courses:
+* _Courses_:
 
     * Occupational safety and health training course for chiefs and specialists of the organizations - 2017
 
