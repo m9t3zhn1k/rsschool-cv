@@ -11,7 +11,7 @@ _(Social networks)_ [Instagram](https://www.instagram.com/m9t3zhn1kk/)
 
 **About me**: The Rolling Scopes JavaSctipt course is the first experience in programming for me. I think programming is a very interesting activity. I hope I can become a professional in it.
 
-((Skills**: I’m a beginner in JavaScript. I don’t have any experience.
+**Skills**: I’m a beginner in JavaScript. I don’t have any experience.
 
 **Examples**:
 ```
@@ -32,12 +32,12 @@ _(Social networks)_ [Instagram](https://www.instagram.com/m9t3zhn1kk/)
 
 **Education**:
 
-*BSUIR - Faculty of Telecommunications - 2011-2016
+* BSUIR - Faculty of Telecommunications - 2011-2016
 
-*Courses:
+* Courses:
 
-    *Occupational safety and health training course for chiefs and specialists of the organizations - 2017
+    * Occupational safety and health training course for chiefs and specialists of the organizations - 2017
 
-    *Electrical safety courses - 2019
+    * Electrical safety courses - 2019
 
 **English**: A2 - my level in English now. But I want to take a couple of courses to improve skills. My communication in English is limited by travellings in the last years.
